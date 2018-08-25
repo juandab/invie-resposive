@@ -376,7 +376,7 @@ input:focus, textarea:focus{
 		margin: 0px;
 	}
 	input[type="text"]{
-		margin-bottom: 20px;
+		margin-bottom: 30px;
 	}
 	input[type="text"],
 	input[type="email"] {
